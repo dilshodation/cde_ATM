@@ -57,3 +57,31 @@ h3{
     margin: 5px;
     padding: 10px;
 }
+@media screen and (max-width:426px) {
+    div{
+        height: 280px;
+        width: 340px;
+        padding: 7px;
+    }
+    h3{
+        font-size: 29px;
+    }
+    h5{
+        font-size: 15px;
+    }
+    input{
+        width: 170px;
+        font-size: 17px;
+        padding: 7px;
+        margin: 12px auto;
+    }
+    p{
+        font-size: 19px;
+    }
+    button{
+        width: 190px;
+        font-size: 17px;
+        padding: 7px;
+        margin: 12px auto;
+    }
+}
